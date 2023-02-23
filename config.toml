@@ -1,0 +1,31 @@
+baseURL = "https://ikigai.fail/"
+languageCode = "en-us"
+title = "Vladislav Slepov"
+theme = "gokarna"
+
+[params]
+avatarUrl = "images/avatar.jpg"
+description = "What I cannot create I do not understand"
+pygmentsStyle = "monokai"
+socialIcons = [
+  {name = "github", url = "https://github.com/ikigai-gh"},
+  {name = "linkedin", url = "https://www.linkedin.com/in/vladislav-slepov-20637316b/"},
+  # TODO: Add icons for leetcode and hackerrank
+  {name = "dribbble", url = "https://leetcode.com/ikigai-lc"},
+  {name = "dribbble", url = "https://hackerrank.com/ikigai_hr"},
+  {name = "stackoverflow", url = "https://stackoverflow.com/users/10484306/ikigai"},
+  {name = "email", url = "mailto:ikigai@ikigai.fail"}
+]
+[menu]
+[[menu.main]]
+identifier = "posts"
+name = "Posts"
+url = "/posts/"
+weight = 1
+
+[[menu.main]]
+identifier = "tags"
+name = "Tags"
+url = "/tags/"
+weight = 2
+

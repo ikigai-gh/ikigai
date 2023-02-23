@@ -1,0 +1,2 @@
+# ikigai
+My personal blog

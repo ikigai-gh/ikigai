@@ -5,7 +5,7 @@ theme = "gokarna"
 
 [params]
 avatarUrl = "images/avatar.jpg"
-description = "What I cannot create I do not understand"
+description = "Make computing great again!"
 pygmentsStyle = "monokai"
 socialIcons = [
   {name = "github", url = "https://github.com/ikigai-gh"},

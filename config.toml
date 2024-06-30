@@ -1,4 +1,4 @@
-baseURL = "https://ikigai-dev.xyz/"
+baseURL = "https://ikigai-dev.ru/"
 languageCode = "en-us"
 title = "Vladislav Slepov"
 theme = "gokarna"
@@ -13,7 +13,7 @@ socialIcons = [
   {name = "leetcode", url = "https://leetcode.com/ikigai-lc"},
   {name = "hackerrank", url = "https://hackerrank.com/ikigai_hr"},
   {name = "stackoverflow", url = "https://stackoverflow.com/users/10484306/ikigai"},
-  {name = "email", url = "mailto:ikigai@ikigai-dev.xyz"}
+  {name = "email", url = "mailto:ikigai@ikigai-dev.ru"}
 ]
 [menu]
 [[menu.main]]

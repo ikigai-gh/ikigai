@@ -4,7 +4,7 @@ title = "Vladislav Slepov"
 theme = "gokarna"
 
 [params]
-avatarUrl = "images/avatar.jpg"
+avatarUrl = "images/avatar.png"
 description = "Make computing great again!"
 pygmentsStyle = "monokai"
 socialIcons = [
